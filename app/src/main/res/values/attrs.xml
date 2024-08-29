@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define custom attributes if needed -->
+    <declare-styleable name="CustomTheme">
+        <attr name="colorBackground" format="color"/>
+        <!-- Add other attributes if needed -->
+    </declare-styleable>
+</resources>
